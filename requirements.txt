@@ -1,0 +1,4 @@
+requests==2.25.1
+chalice==1.21.8
+boto3==1.16.51
+loguru==0.5.3

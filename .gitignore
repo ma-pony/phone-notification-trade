@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.config
 # C extensions
 *.so
 
@@ -127,3 +128,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# chalice
+.chalice/deployments/
+.chalice/venv/
+
+# IDE
+.idea
